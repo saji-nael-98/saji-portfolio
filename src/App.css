@@ -1,1 +1,9 @@
-@import '~antd/dist/antd.css';
+@import "~antd/dist/antd.css";
+:root {
+  --primary: #1abc9c;
+}
+.centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
